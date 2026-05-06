@@ -20,7 +20,7 @@
   "experience": [
     {
       "company": "XING GmbH & Co. KG",
-      "role": "Senior Software Test Engineer",
+      "role": "Mobile Development Operations",
       "start_date": "2022-06",
       "end_date": "2025-12",
       "location": "Hamburg, Germany",
@@ -44,7 +44,7 @@
     {
       "company": "XING GmbH & Co. KG",
       "role": "Senior Software Test Engineer",
-      "start_date": "2021-03",
+      "start_date": "2020-06",
       "end_date": "2022-05",
       "location": "Hamburg, Germany",
       "responsibilities": [
@@ -149,10 +149,7 @@
     "programming_languages": [
       "Ruby",
       "JavaScript",
-      "PHP",
-      "Java",
       "SQL",
-      "PL/SQL",
       "HTML",
       "CSS"
     ],
