@@ -1,0 +1,213 @@
+{
+  "personal": {
+    "full_name": "Massimiliano De Vivo",
+    "birth_date": "1989-03-26",
+    "birth_place": "Torino, Italy",
+    "address": {
+      "street": "Heitmannstrasse 68",
+      "postal_code": "22083",
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    "phone": "+49 173 3105318",
+    "email": "maxtru2005@gmail.com",
+    "github": "https://github.com/mooikos"
+  },
+  "summary": {
+    "title": "Senior Software Test Engineer",
+    "description": "Experienced Software Test Engineer with expertise in mobile app testing, CI/CD management, backend services, end-to-end testing, contract testing, and agile quality practices."
+  },
+  "experience": [
+    {
+      "company": "XING GmbH & Co. KG",
+      "role": "Senior Software Test Engineer",
+      "start_date": "2022-06",
+      "end_date": "2025-12",
+      "location": "Hamburg, Germany",
+      "responsibilities": [
+        "Managed CI/CD pipelines for the mobile application",
+        "Managed Ruby on Rails backend services",
+        "Connected GitHub Webhook/API to Bitrise Webhook/API",
+        "Managed mobile app release and testing processes",
+        "Managed internal end-to-end testing library focused on mobile applications"
+      ],
+      "technologies": [
+        "Ruby",
+        "Ruby on Rails",
+        "GitHub",
+        "Bitrise",
+        "CI/CD",
+        "Mobile Testing",
+        "End-to-End Testing"
+      ]
+    },
+    {
+      "company": "XING GmbH & Co. KG",
+      "role": "Senior Software Test Engineer",
+      "start_date": "2021-03",
+      "end_date": "2022-05",
+      "location": "Hamburg, Germany",
+      "responsibilities": [
+        "Supported organization of the testing community within the company",
+        "Supported knowledge sharing initiatives",
+        "Promoted quality best practices",
+        "Worked on testing tooling including contract testing",
+        "Performed responsibilities from previous Agile Tester role"
+      ],
+      "technologies": [
+        "Contract Testing",
+        "Testing Tooling",
+        "Agile",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "company": "XING GmbH & Co. KG",
+      "role": "Agile Tester",
+      "start_date": "2016-05",
+      "end_date": "2021-02",
+      "location": "Hamburg, Germany",
+      "responsibilities": [
+        "Supported testing subsection for students",
+        "Performed browser and app end-to-end automation testing",
+        "Performed manual testing"
+      ],
+      "technologies": [
+        "Browser Automation",
+        "App Testing",
+        "Manual Testing",
+        "End-to-End Testing"
+      ]
+    },
+    {
+      "company": "Goodgame Studios",
+      "role": "QA Engineer",
+      "start_date": "2014-08",
+      "end_date": "2016-04",
+      "location": "Hamburg, Germany",
+      "responsibilities": [
+        "Supported testing of marketing backend systems",
+        "Validated systems using web automation scripts and SQL queries"
+      ],
+      "technologies": [
+        "SQL",
+        "Browser Automation",
+        "PHP"
+      ]
+    },
+    {
+      "company": "Click Reply",
+      "role": "Apprentice Software Development",
+      "start_date": "2013-05",
+      "end_date": "2014-07",
+      "location": "Italy",
+      "responsibilities": [
+        "Supported development of a custom warehouse logistics application",
+        "Worked with PL/SQL and database queries"
+      ],
+      "technologies": [
+        "PL/SQL",
+        "SQL",
+        "Database Queries"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universita degli Studi di Torino",
+      "degree": "Bachelor Degree in Computer Science",
+      "start_date": "2010-09",
+      "end_date": "2013-04",
+      "details": [
+        "Computer Science fundamentals",
+        "PHP",
+        "Java"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "ISTQB Certified Tester Foundation Level",
+      "version": "2011"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Fluent"
+    },
+    {
+      "language": "Italian",
+      "level": "Native"
+    },
+    {
+      "language": "German",
+      "level": "Basic"
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      "Ruby",
+      "JavaScript",
+      "PHP",
+      "Java",
+      "SQL",
+      "PL/SQL",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks": [
+      "Ruby on Rails",
+      "Sinatra",
+      "RSpec",
+      "Cucumber",
+      "Selenium",
+      "Cypress"
+    ],
+    "databases": [
+      "MySQL",
+      "Postgres",
+      "Redis"
+    ],
+    "devops_ci_cd": [
+      "Bitrise",
+      "Jenkins",
+      "Cloud CI",
+      "Continuous Integration",
+      "Git",
+      "GitHub",
+      "GitLab"
+    ],
+    "testing": [
+      "Contract Testing",
+      "White Box Testing",
+      "Black Box Testing",
+      "Software Testing",
+      "End-to-End Testing",
+      "Manual Testing",
+      "Automation Testing",
+      "ISTQB Foundation"
+    ],
+    "methodologies": [
+      "Agile",
+      "JIRA"
+    ],
+    "computer_science": [
+      "Finite State Machines",
+      "Logic"
+    ]
+  },
+  "interests": [
+    "Boardgames",
+    "Movies",
+    "Table Kicker",
+    "Karaoke",
+    "Videogames",
+    "Comedy"
+  ],
+  "personality_traits": [
+    "Respect",
+    "Understanding",
+    "Friendliness"
+  ]
+}
