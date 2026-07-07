@@ -19,6 +19,19 @@
   },
   "experience": [
     {
+      "company": "Sabbatical / Career Break",
+      "role": "Sabbatical & Language Study",
+      "start_date": "2026-04",
+      "end_date": "2026-07",
+      "location": "Hamburg, Germany",
+      "responsibilities": [
+        "Took a planned career break to recharge after a nearly 10-year tenure at XING.",
+        "Dedicated time to intensive self-study to improve German language proficiency.",
+        "Currently actively seeking a long-term Senior Software Engineering opportunity."
+      ],
+      "technologies": []
+    },
+    {
       "company": "XING GmbH & Co. KG",
       "role": "Mobile Development Operations",
       "start_date": "2022-06",
@@ -148,7 +161,7 @@
     },
     {
       "language": "German",
-      "level": "Basic"
+      "level": "Beginner"
     }
   ],
   "skills": {
