@@ -1,0 +1,10 @@
+# OSX files
+/**/*.DS_Store
+
+# extra files
+/*.aux
+/*.log
+/*.out
+
+# api key
+api_key.key
