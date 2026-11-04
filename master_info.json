@@ -22,7 +22,7 @@
       "company": "Sabbatical / Career Break",
       "role": "Sabbatical & Language Study",
       "start_date": "2026-04",
-      "end_date": "2026-07",
+      "end_date": "current",
       "location": "Hamburg, Germany",
       "responsibilities": [
         "Took a planned career break to recharge after a nearly 10-year tenure at XING.",
@@ -146,7 +146,7 @@
   ],
   "certifications": [
     {
-      "name": "ISTQB Certified Tester Foundation Level",
+      "name": "ISTQB Certified Tester Foundation Level 2018",
       "version": "2011"
     }
   ],
@@ -161,10 +161,14 @@
     },
     {
       "language": "German",
-      "level": "Beginner"
+      "level": "Intermediate"
     }
   ],
   "skills": {
+    "ai": [
+      "Claude-CLI",
+      "Gemini-CLI"
+    ]
     "programming_languages": [
       "Ruby",
       "JavaScript",
@@ -205,7 +209,16 @@
       "End-to-End Testing",
       "Manual Testing",
       "Automation Testing",
-      "ISTQB Foundation"
+      "ISTQB Foundation",
+      "Test Cases",
+      "Acceptance Criteria",
+      "Scenarios",
+      "Root Cause Analysis",
+      "Log Analysis",
+      "Bug Analysis"
+    ],
+    "tooling": [
+      "Docker"
     ],
     "methodologies": [
       "Agile",

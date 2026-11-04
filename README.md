@@ -17,7 +17,9 @@ Task: I am providing my master CV in JSON format and a target Job Description. 
 Rules:
 
 Select only the most relevant skills, tools, and bullet points from my JSON that match the Job Description.
-Subtly reword my responsibilities to mirror the keywords and language used in the job ad (without inventing experience).
+Subtly reword my responsibilities to mirror the keywords and language used in the job ad.
+PLEASE DO NOT inventing experiences, in case of need ask me questions to expand the master_info with relevant info.
+Always re-read target files (especially ../master_info.json, ../target_job_ad.text, and ./adapted_master_info.tex) right before changing them or generating output, as I may have updated them manually in the meantime.
 Keep the output concise (maximum 1-2 pages).
 Output the final tailored resume strictly in LaTeX code using the jakegut/resume template structure.
 
