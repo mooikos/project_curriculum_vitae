@@ -27,7 +27,7 @@
       "responsibilities": [
         "Planned career break after a nearly 10-year tenure at XING.",
         "Intensive German language self-study.",
-        "Practiced agentic engineering and QA workflows (Claude Code/CLI, Gemini-CLI, Antigravity CLI).",
+        "Practiced agentic engineering and QA workflows (Claude Code/CLI, Gemini-CLI, Antigravity CLI), validating AI-generated code and features for quality and maintainability.",
         "Actively seeking a Senior Software / QA Engineering role."
       ],
       "technologies": [
@@ -79,7 +79,7 @@
         "Built automated GraphQL and REST API & contract test suites (RSpec, cURL), validating HTTP methods, status codes, headers, Bearer/JWT tokens, and API-to-UI data consistency.",
         "Joined backlog refinements early (shift-left) to analyze requirements, identify edge cases, and author test plans, cases, BDD/Gherkin scenarios, and acceptance criteria.",
         "Applied ISTQB test design techniques (boundary value, equivalence partitioning, decision tables, state transitions) and reduced QA technical debt.",
-        "Co-organized the internal testing community, coached developers on testability, and aligned with Product, UI/Design, and Engineering in workshops and release sign-offs."
+        "Co-organized the internal testing community, coached teams on testability engineering and quality KPIs (coverage, CI stability, defect trends), and moderated workshops and release sign-offs."
       ],
       "technologies": [
         "RSpec",
@@ -100,7 +100,7 @@
       "end_date": "2021-02",
       "location": "Hamburg, Germany",
       "responsibilities": [
-        "Executed automated and manual functional, regression, integration, exploratory, E2E, and UAT/acceptance tests across web and iOS/Android mobile apps.",
+        "Executed automated and manual functional, regression, integration, exploratory, accessibility (a11y), E2E, and UAT/acceptance tests across web and iOS/Android mobile apps.",
         "Tested role-based access control (RBAC), cross-user/tenant boundaries, workflow rules, configuration settings, data import/export, and Microsoft 365 integrations.",
         "Investigated defects via Browser DevTools (Network, Console, Local Storage) and API payloads, writing deterministic reproduction steps, retesting fixes, and documenting reports in JIRA/Confluence.",
         "Mentored working students in test design, browser/app automation (Cypress, Selenium), and agile QA workflows."
@@ -187,7 +187,7 @@
       "Claude-CLI",
       "Gemini-CLI",
       "Antigravity CLI",
-      "Agentic Engineering",
+      "Agentic Engineering & AI Code Validation",
       "Context & Living Documentation"
     ],
     "programming_languages": [
@@ -236,21 +236,22 @@
       "Monitoring & Observability"
     ],
     "testing": [
-      "Test Strategy & Test Plans",
+      "Quality Strategy, Roadmaps & Test Plans",
       "Risk-Based Testing",
       "Test Pyramid",
-      "Shift-Left Testing",
+      "Shift-Left & Testability Engineering",
       "BDD / Gherkin",
       "V-Model",
       "Unit, Integration, System & E2E Testing",
       "Functional, Regression & Smoke Testing",
-      "Exploratory & UAT/Acceptance Testing",
+      "Exploratory, Accessibility (a11y) & UAT Testing",
+      "API Performance & Reliability Testing",
       "Mobile Testing (iOS & Android)",
       "RBAC, Permission & Tenant Boundary Testing",
       "Data Import/Export & Config Validation",
       "ISTQB Test Design (BVA, Equivalence Partitioning, Decision Tables, State Transitions)",
       "Staging Environments, Test Accounts/Data & Reporting",
-      "Quality Gates & Release Readiness",
+      "Quality Gates, KPIs & Release Readiness",
       "Root-Cause, Log & Browser DevTools Analysis",
       "ISTQB Foundation"
     ],
