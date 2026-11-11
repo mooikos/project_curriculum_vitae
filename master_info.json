@@ -40,18 +40,33 @@
       "responsibilities": [
         "Managed CI/CD pipelines for the mobile application",
         "Managed Ruby on Rails backend services",
+        "Built and maintained ERB, HTML, CSS, and JavaScript views alongside Ruby on Rails backend services",
+        "Owned internal features, tools, and services end-to-end from concept and proposal to production deployment",
         "Connected GitHub Webhook/API to Bitrise Webhook/API",
         "Managed mobile app release and testing processes",
-        "Managed internal end-to-end testing library focused on mobile applications"
+        "Managed internal end-to-end testing library focused on mobile applications",
+        "Integrated software components and services into staging and containerized test environments (Docker)",
+        "Conducted GitHub pull request code reviews to enforce code style, maintainability, and test coverage standards",
+        "Modeled state transitions and status workflows (Finite State Machines) in backend business logic and consolidated/integrated services with clean interface boundaries",
+        "Performed PostgreSQL/SQL query analysis, indexing, and safe database schema migrations",
+        "Maintained RuboCop and Ruby/Rails style guides and monitored application health via observability and log tooling",
+        "Triaged and fixed prioritized bugs and supported development teams with root-cause, log, and bug analysis (3rd-level support)",
+        "Communicated test and release status, quality risks, and go/no-go or improvement recommendations to Engineering/IT Leads and stakeholders",
+        "Used, maintained, and contributed to open-source software and libraries on GitHub"
       ],
       "technologies": [
         "Ruby",
         "Ruby on Rails",
+        "ERB",
+        "JavaScript",
+        "HTML",
+        "CSS",
         "RSpec",
         "Unit Testing",
         "Integration Testing",
         "GitHub",
         "Bitrise",
+        "Docker",
         "CI/CD",
         "Mobile Testing",
         "End-to-End Testing"
@@ -68,15 +83,27 @@
         "Supported knowledge sharing initiatives",
         "Promoted quality best practices",
         "Worked on testing tooling including contract testing",
+        "Designed holistic frontend and backend test strategies and automated regression test suites",
+        "Practiced shift-left testing, reviewed requirements for testability, and coached developers on testability and shared quality standards (including BDD/Gherkin)",
+        "Authored structured test specifications, test cases, test scenarios, and acceptance criteria aligned with V-Model and agile test levels",
+        "Identified and refactored technical debt and testing bottlenecks, continuously optimizing development and testing processes",
+        "Aligned closely with Concept/Product, UI/Design, and Software Development teams in workshops, production meetings, and acceptance sign-offs",
         "Performed responsibilities from previous Agile Tester role"
       ],
       "technologies": [
         "RSpec",
+        "Cucumber",
+        "BDD / Gherkin",
         "Unit Testing",
         "Integration Testing",
+        "System Testing",
+        "Acceptance Testing",
         "Contract Testing",
+        "cURL / HTTP CLI",
         "Testing Tooling",
         "Agile",
+        "JIRA",
+        "Confluence",
         "Quality Assurance"
       ]
     },
@@ -89,13 +116,23 @@
       "responsibilities": [
         "Supported testing subsection for students",
         "Performed browser and app end-to-end automation testing",
-        "Performed manual testing"
+        "Performed manual testing",
+        "Coordinated and executed automated and manual feature, component, integration, system (E2E), and acceptance tests across multiple teams and system landscapes",
+        "Coordinated defect triage and bug prioritization with Product Owners and developers in JIRA and documented test results in Confluence"
       ],
       "technologies": [
         "Browser Automation",
+        "Cypress",
+        "Selenium",
+        "Cucumber",
         "App Testing",
         "Manual Testing",
-        "End-to-End Testing"
+        "Exploratory Testing",
+        "Regression Testing",
+        "End-to-End Testing",
+        "Acceptance Testing",
+        "JIRA",
+        "Confluence"
       ]
     },
     {
@@ -168,7 +205,7 @@
     "ai": [
       "Claude-CLI",
       "Gemini-CLI"
-    ]
+    ],
     "programming_languages": [
       "Ruby",
       "JavaScript",
@@ -179,7 +216,9 @@
     "frameworks": [
       "Ruby on Rails",
       "Sinatra",
+      "ERB",
       "RSpec",
+      "RuboCop",
       "Cucumber",
       "Selenium",
       "Cypress"
@@ -187,13 +226,17 @@
     "databases": [
       "MySQL",
       "Postgres",
-      "Redis"
+      "Redis",
+      "Query Analysis & Indexing",
+      "Database Migrations"
     ],
     "devops_ci_cd": [
+      "GitHub Actions",
       "Bitrise",
       "Jenkins",
       "Cloud CI",
       "Continuous Integration",
+      "Application Monitoring & Observability",
       "Git",
       "GitHub",
       "GitLab"
@@ -202,7 +245,14 @@
       "RSpec",
       "Unit Testing",
       "Integration Testing",
+      "System Testing",
+      "Acceptance Testing",
+      "Regression Testing",
+      "Exploratory Testing",
       "Contract Testing",
+      "Shift-Left Testing",
+      "BDD / Gherkin",
+      "V-Model",
       "White Box Testing",
       "Black Box Testing",
       "Software Testing",
@@ -210,6 +260,9 @@
       "Manual Testing",
       "Automation Testing",
       "ISTQB Foundation",
+      "Test Strategy",
+      "Test Specifications",
+      "Requirement Testability Review",
       "Test Cases",
       "Acceptance Criteria",
       "Scenarios",
@@ -218,11 +271,18 @@
       "Bug Analysis"
     ],
     "tooling": [
-      "Docker"
+      "Docker",
+      "cURL / HTTP CLI",
+      "Confluence"
     ],
     "methodologies": [
       "Agile",
-      "JIRA"
+      "JIRA",
+      "Confluence",
+      "Code Reviews",
+      "Technical Debt Reduction",
+      "Defect Management & Triage",
+      "Open Source Development"
     ],
     "computer_science": [
       "Finite State Machines",
