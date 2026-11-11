@@ -29,6 +29,7 @@ Select only the most relevant skills, tools, and bullet points from my JSON that
 Subtly reword my responsibilities to mirror the keywords and language used in the job ad.
 PLEASE DO NOT inventing experiences, in case of need ask me questions to expand the master_info with relevant info.
 Whenever I confirm extra skills, tools, or responsibilities through your questions, please also update ../master_info.json with those confirmed additions so they are persisted for future applications.
+Keep ../master_info.json clean, unified, and concise: merge related competences into short, atomic keywords/phrases and prune redundant or overly wordy sentences.
 Always re-read target files (especially ../master_info.json, ../target_job_ad.text, and ./adapted_master_info.tex) right before changing them or generating output, as I may have updated them manually in the meantime.
 Keep the output concise (maximum 1-2 pages).
 Output the final tailored resume strictly in LaTeX code using the jakegut/resume template structure.

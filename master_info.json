@@ -14,8 +14,8 @@
     "github": "https://github.com/mooikos"
   },
   "summary": {
-    "title": "Senior Software Test Engineer",
-    "description": "Experienced Software Test Engineer with expertise in mobile app testing, CI/CD management, backend services, end-to-end testing, contract testing, and agile quality practices."
+    "title": "Senior Software & Quality Engineer",
+    "description": "ISTQB-certified Senior Software Test & Ruby on Rails Engineer with 10+ years of experience in web/mobile E2E & API testing (GraphQL, REST), CI/CD pipelines, Ruby on Rails backend services, and AI-augmented quality engineering."
   },
   "experience": [
     {
@@ -25,11 +25,17 @@
       "end_date": "current",
       "location": "Hamburg, Germany",
       "responsibilities": [
-        "Took a planned career break to recharge after a nearly 10-year tenure at XING.",
-        "Dedicated time to intensive self-study to improve German language proficiency.",
-        "Currently actively seeking a long-term Senior Software Engineering opportunity."
+        "Planned career break after a nearly 10-year tenure at XING.",
+        "Intensive German language self-study.",
+        "Practiced agentic engineering and QA workflows (Claude Code/CLI, Gemini-CLI, Antigravity CLI).",
+        "Actively seeking a Senior Software / QA Engineering role."
       ],
-      "technologies": []
+      "technologies": [
+        "Claude Code",
+        "Claude-CLI",
+        "Gemini-CLI",
+        "Antigravity CLI"
+      ]
     },
     {
       "company": "XING GmbH & Co. KG",
@@ -38,21 +44,12 @@
       "end_date": "2026-03",
       "location": "Hamburg, Germany",
       "responsibilities": [
-        "Managed CI/CD pipelines for the mobile application",
-        "Managed Ruby on Rails backend services",
-        "Built and maintained ERB, HTML, CSS, and JavaScript views alongside Ruby on Rails backend services",
-        "Owned internal features, tools, and services end-to-end from concept and proposal to production deployment",
-        "Connected GitHub Webhook/API to Bitrise Webhook/API",
-        "Managed mobile app release and testing processes",
-        "Managed internal end-to-end testing library focused on mobile applications",
-        "Integrated software components and services into staging and containerized test environments (Docker)",
-        "Conducted GitHub pull request code reviews to enforce code style, maintainability, and test coverage standards",
-        "Modeled state transitions and status workflows (Finite State Machines) in backend business logic and consolidated/integrated services with clean interface boundaries",
-        "Performed PostgreSQL/SQL query analysis, indexing, and safe database schema migrations",
-        "Maintained RuboCop and Ruby/Rails style guides and monitored application health via observability and log tooling",
-        "Triaged and fixed prioritized bugs and supported development teams with root-cause, log, and bug analysis (3rd-level support)",
-        "Communicated test and release status, quality risks, and go/no-go or improvement recommendations to Engineering/IT Leads and stakeholders",
-        "Used, maintained, and contributed to open-source software and libraries on GitHub"
+        "Owned Ruby on Rails backend services, ERB/HTML/CSS/JS views, and REST/JSON & Webhook integrations (GitHub/Bitrise) from concept to production.",
+        "Modeled backend state transitions (Finite State Machines), defined service boundaries, and performed PostgreSQL/SQL query analysis, indexing, and safe migrations.",
+        "Managed mobile (iOS/Android) and backend CI/CD pipelines, daily staging/production releases, smoke testing, and post-release verification.",
+        "Owned internal E2E testing library and test infrastructure: Docker/staging environments, test accounts/data, automated reporting, and CI/CD quality gates.",
+        "Conducted GitHub PR code reviews (RuboCop, RSpec) and maintained living documentation (Confluence, Markdown, API specs) for humans and AI agents.",
+        "Led 3rd-level root-cause, log, and payload analysis, and reported release status and quality risks to Engineering Leads."
       ],
       "technologies": [
         "Ruby",
@@ -61,15 +58,14 @@
         "JavaScript",
         "HTML",
         "CSS",
+        "PostgreSQL",
+        "Redis",
         "RSpec",
-        "Unit Testing",
-        "Integration Testing",
-        "GitHub",
+        "RuboCop",
+        "GitHub Actions",
         "Bitrise",
         "Docker",
-        "CI/CD",
-        "Mobile Testing",
-        "End-to-End Testing"
+        "CI/CD"
       ]
     },
     {
@@ -79,32 +75,22 @@
       "end_date": "2022-05",
       "location": "Hamburg, Germany",
       "responsibilities": [
-        "Supported organization of the testing community within the company",
-        "Supported knowledge sharing initiatives",
-        "Promoted quality best practices",
-        "Worked on testing tooling including contract testing",
-        "Designed holistic frontend and backend test strategies and automated regression test suites",
-        "Practiced shift-left testing, reviewed requirements for testability, and coached developers on testability and shared quality standards (including BDD/Gherkin)",
-        "Authored structured test specifications, test cases, test scenarios, and acceptance criteria aligned with V-Model and agile test levels",
-        "Identified and refactored technical debt and testing bottlenecks, continuously optimizing development and testing processes",
-        "Aligned closely with Concept/Product, UI/Design, and Software Development teams in workshops, production meetings, and acceptance sign-offs",
-        "Performed responsibilities from previous Agile Tester role"
+        "Designed risk-based frontend/backend test strategies and custom test tooling from scratch across the test pyramid (unit, integration, contract, system, E2E).",
+        "Built automated GraphQL and REST API & contract test suites (RSpec, cURL), validating HTTP methods, status codes, headers, Bearer/JWT tokens, and API-to-UI data consistency.",
+        "Joined backlog refinements early (shift-left) to analyze requirements, identify edge cases, and author test plans, cases, BDD/Gherkin scenarios, and acceptance criteria.",
+        "Applied ISTQB test design techniques (boundary value, equivalence partitioning, decision tables, state transitions) and reduced QA technical debt.",
+        "Co-organized the internal testing community, coached developers on testability, and aligned with Product, UI/Design, and Engineering in workshops and release sign-offs."
       ],
       "technologies": [
         "RSpec",
         "Cucumber",
         "BDD / Gherkin",
-        "Unit Testing",
-        "Integration Testing",
-        "System Testing",
-        "Acceptance Testing",
+        "GraphQL",
+        "REST APIs",
         "Contract Testing",
-        "cURL / HTTP CLI",
-        "Testing Tooling",
-        "Agile",
+        "cURL",
         "JIRA",
-        "Confluence",
-        "Quality Assurance"
+        "Confluence"
       ]
     },
     {
@@ -114,23 +100,18 @@
       "end_date": "2021-02",
       "location": "Hamburg, Germany",
       "responsibilities": [
-        "Supported testing subsection for students",
-        "Performed browser and app end-to-end automation testing",
-        "Performed manual testing",
-        "Coordinated and executed automated and manual feature, component, integration, system (E2E), and acceptance tests across multiple teams and system landscapes",
-        "Coordinated defect triage and bug prioritization with Product Owners and developers in JIRA and documented test results in Confluence"
+        "Executed automated and manual functional, regression, integration, exploratory, E2E, and UAT/acceptance tests across web and iOS/Android mobile apps.",
+        "Tested role-based access control (RBAC), cross-user/tenant boundaries, workflow rules, configuration settings, data import/export, and Microsoft 365 integrations.",
+        "Investigated defects via Browser DevTools (Network, Console, Local Storage) and API payloads, writing deterministic reproduction steps, retesting fixes, and documenting reports in JIRA/Confluence.",
+        "Mentored working students in test design, browser/app automation (Cypress, Selenium), and agile QA workflows."
       ],
       "technologies": [
-        "Browser Automation",
         "Cypress",
         "Selenium",
         "Cucumber",
-        "App Testing",
-        "Manual Testing",
-        "Exploratory Testing",
-        "Regression Testing",
-        "End-to-End Testing",
-        "Acceptance Testing",
+        "Browser DevTools",
+        "Mobile Testing (iOS/Android)",
+        "Microsoft 365 Integrations",
         "JIRA",
         "Confluence"
       ]
@@ -142,11 +123,11 @@
       "end_date": "2016-04",
       "location": "Hamburg, Germany",
       "responsibilities": [
-        "Supported testing of marketing backend systems",
-        "Validated systems using web automation scripts and SQL queries"
+        "Validated gaming marketing and user-acquisition backend systems, web apps, and data flows using browser automation scripts and SQL queries."
       ],
       "technologies": [
         "SQL",
+        "MySQL",
         "Browser Automation",
         "PHP"
       ]
@@ -156,15 +137,13 @@
       "role": "Apprentice Software Development",
       "start_date": "2013-05",
       "end_date": "2014-07",
-      "location": "Italy",
+      "location": "Torino, Italy",
       "responsibilities": [
-        "Supported development of a custom warehouse logistics application",
-        "Worked with PL/SQL and database queries"
+        "Supported backend development and PL/SQL database queries for a custom warehouse logistics application."
       ],
       "technologies": [
         "PL/SQL",
-        "SQL",
-        "Database Queries"
+        "SQL"
       ]
     }
   ],
@@ -176,8 +155,9 @@
       "end_date": "2013-04",
       "details": [
         "Computer Science fundamentals",
-        "PHP",
-        "Java"
+        "Finite State Machines & Logic",
+        "Java",
+        "PHP"
       ]
     }
   ],
@@ -203,8 +183,12 @@
   ],
   "skills": {
     "ai": [
+      "Claude Code",
       "Claude-CLI",
-      "Gemini-CLI"
+      "Gemini-CLI",
+      "Antigravity CLI",
+      "Agentic Engineering",
+      "Context & Living Documentation"
     ],
     "programming_languages": [
       "Ruby",
@@ -223,10 +207,20 @@
       "Selenium",
       "Cypress"
     ],
+    "apis_and_integrations": [
+      "GraphQL",
+      "REST/JSON APIs",
+      "HTTP Auth (Headers, Bearer Tokens, JWT, Cookies)",
+      "Webhooks",
+      "Contract Testing",
+      "Microsoft 365 Integrations",
+      "cURL / HTTP CLI"
+    ],
     "databases": [
+      "PostgreSQL",
       "MySQL",
-      "Postgres",
       "Redis",
+      "PL/SQL",
       "Query Analysis & Indexing",
       "Database Migrations"
     ],
@@ -235,50 +229,38 @@
       "Bitrise",
       "Jenkins",
       "Cloud CI",
-      "Continuous Integration",
-      "Application Monitoring & Observability",
+      "Docker",
       "Git",
       "GitHub",
-      "GitLab"
+      "GitLab",
+      "Monitoring & Observability"
     ],
     "testing": [
-      "RSpec",
-      "Unit Testing",
-      "Integration Testing",
-      "System Testing",
-      "Acceptance Testing",
-      "Regression Testing",
-      "Exploratory Testing",
-      "Contract Testing",
+      "Test Strategy & Test Plans",
+      "Risk-Based Testing",
+      "Test Pyramid",
       "Shift-Left Testing",
       "BDD / Gherkin",
       "V-Model",
-      "White Box Testing",
-      "Black Box Testing",
-      "Software Testing",
-      "End-to-End Testing",
-      "Manual Testing",
-      "Automation Testing",
-      "ISTQB Foundation",
-      "Test Strategy",
-      "Test Specifications",
-      "Requirement Testability Review",
-      "Test Cases",
-      "Acceptance Criteria",
-      "Scenarios",
-      "Root Cause Analysis",
-      "Log Analysis",
-      "Bug Analysis"
-    ],
-    "tooling": [
-      "Docker",
-      "cURL / HTTP CLI",
-      "Confluence"
+      "Unit, Integration, System & E2E Testing",
+      "Functional, Regression & Smoke Testing",
+      "Exploratory & UAT/Acceptance Testing",
+      "Mobile Testing (iOS & Android)",
+      "RBAC, Permission & Tenant Boundary Testing",
+      "Data Import/Export & Config Validation",
+      "ISTQB Test Design (BVA, Equivalence Partitioning, Decision Tables, State Transitions)",
+      "Staging Environments, Test Accounts/Data & Reporting",
+      "Quality Gates & Release Readiness",
+      "Root-Cause, Log & Browser DevTools Analysis",
+      "ISTQB Foundation"
     ],
     "methodologies": [
-      "Agile",
+      "Agile / Scrum",
+      "Kanban",
       "JIRA",
       "Confluence",
+      "Requirements Engineering",
+      "Daily Staging & Production Releases",
       "Code Reviews",
       "Technical Debt Reduction",
       "Defect Management & Triage",
